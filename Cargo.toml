@@ -1,0 +1,11 @@
+[package]
+name = "wordle"
+authors = ["Rhelvetican <bionicvnb@gmail.com>"]
+version = "0.5.0"
+edition = "2021"
+keywords = ["wordle", "game", "cli"]
+description = "A simple wordle game in the terminal."
+
+[dependencies]
+rand = "0.8"
+ansi_term = "0.12"
